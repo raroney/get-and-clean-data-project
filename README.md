@@ -1,6 +1,6 @@
 # get-and-clean-data-project
 
-The [run_analysis.R](https://github.com/raroney/get-and-clean-data-project/blob/master/run_analysis.R) script included in this repository was created for the Project within the coursera course Getting and Cleaning Data (by Jeff Leek, PhD, Roger D. Peng, PhD, Brian Caffo, PhD). The specific link for my cohort / course session: https://class.coursera.org/getdata-031/)
+The [run_analysis.R](https://github.com/raroney/get-and-clean-data-project/blob/master/run_analysis.R) script included in this repository was created for the Project within the coursera course Getting and Cleaning Data (by Jeff Leek, PhD, Roger D. Peng, PhD, Brian Caffo, PhD). The specific link for my cohort / course session is https://class.coursera.org/getdata-031/.
 
 The data that this script was written to analyse can be downloaded from here:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
